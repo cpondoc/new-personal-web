@@ -4,7 +4,7 @@ import '../style/index.css';
 
 const Footerz = () => (
     <Container id="footer-container">
-        <p id="footer">Developed with <span role="img" aria-label="yeehaw">🤠</span>.</p>
+        <p id="footer">Developed by a Mr. Struggle <span role="img" aria-label="yeehaw">🤠</span>.</p>
     </Container>
 )
 
