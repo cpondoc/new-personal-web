@@ -12,6 +12,7 @@ const Narvbarz = () => (
         <Nav.Link href="/about">about</Nav.Link>
         <Nav.Link href="/contact">contact</Nav.Link>
         <Nav.Link href="/blog">blog</Nav.Link>
+        <Nav.Link href="https://drive.google.com/file/d/1AkB5LR8Ml4IBojdhWAa-r7NdnAuGSDb-/view">cv</Nav.Link>
       </Nav>
     </Navbar.Collapse>
   </Navbar>
