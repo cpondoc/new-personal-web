@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@400;600&display=swap');
+body {
+    font-family: 'Vollkorn', serif;
+}
+.container {
+    padding-top: 3%;
+}
+p, li {
+    font-size: 18px;
+}
+h2, h4 {
+    font-weight: bold;
+}
+a, a:hover {
+    color: #8C1515;
+}
