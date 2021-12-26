@@ -1,0 +1,55 @@
+DEOs - The Future of Gaming and E-Sports
+
+With the rise of Decentralized Autonomous Organizations (DAOs), it has been rather popular to reconsider every possible type of organization as a DAO. However, the notion of centralization is not inherently bad — in some instances, it could help minimize time to make decisions. However, there is an application that could be useful in helping eliminate much bureaucracy — e-sports organizations.
+
+Background
+
+E-Sports Organizations are “…companies built around making and training different rosters of teams across a variety of games” [1]. Some popular organizations include Cloud 9, 100 Thieves, and FaZe Clan, among others. Recently, there has also been a shift to go from professional e-sports teams to more diversified content creators who focus on gaming content. Perhaps most importantly, though, is the emphasis on community amongst a lot of these organizations, which garner large followings on social media.
+
+Funding in E-Sports - A Problem and Opportunity
+
+There are a plethora of problems facing e-sports organizations [5]. However, I’ll specifically focus on the problem of funding and compensation. Specifically, well-documented problem is the lack of compensation some players receive. This problem is well-known amongst the e-sports communities, as many executives don’t properly pay out salaries or winnings to their players [2] [3] [4]. This task is also made more difficult by the global nature of the organizations and how players can come from anywhere in the world.
+
+A potential opportunity, though, is that of catalyzing the communities of such e-sports organizations. Especially with the coronavirus pandemic, more and more people have turned to online streaming platforms such as Twitch and YouTube gaming to get their fix of entertainment. As such, e-sports organizations have been able to find new revenue streams through means of sponsorships and merchandise to make money off of their supporters. In any case, there seems to be an application that could eliminate the problem of compensation while also allowing the community to invest more in the team: a DAO.
+
+DEOs - Decentralized E-Sports Organizations
+
+The layout of a DAO could be perfect for creating an E-Sports organization. Let’s see how that could work.
+
+We have the core set of players + potentially some sort of coach, but a shared treasury.
+
+Fans/willing contributors can stake their money into the shared DAO treasury and receive some sort of ERC-20 token in return.
+
+Fans/contributors can then utilize these tokens to vote on proposals for the team. Want to make a roster change? Want to see new merchandise? The community would be able to control these.
+
+Thing to think about: how could fans get more tokens? Maybe they play a role in facilitating a cool new sponsorship, design a logo for fans, help create a website, become a moderator, etc. You could create different roles, set up a bounty program, and find other ways to get the community involved.
+
+As the team performs better, the value in the organization increases, meaning that the stake fans/contributors have will also increase. Thus, there is an economic incentive to help the team perform better.
+
+Naturally, a team would not necessarily give too much permission to their fans/contributors: there would still be some decisions that would be decided off-chain. Nonetheless, fans would still be able to help essentially run a community-owned e-sports organization.
+
+Drawbacks
+
+There are certainly a ton of drawbacks to this idea. Let’s think of a couple…
+
+Well, as we’ve seen, gamers + NFTs don’t mesh, so we can’t exactly say that they’re sold on blockchain.
+
+Finding a good balance of power in what responsibilities to hand over.
+
+Super-fans trying to abuse the power of voting. In other words, good tokenomics would be key.
+
+Conclusion
+
+Just an interesting idea.
+
+Sources
+
+[1] - https://www.quora.com/What-is-an-eSport-organization 
+
+[2] - https://archive.esportsobserver.com/newbee-nonpayment-fortnitewc2019/
+
+[3] - https://www.dexerto.com/csgo/turkish-esports-team-non-payment-league-of-legends-940974/
+
+[4] - https://dotesports.com/league-of-legends/news/solafide-esports-owner-banned-from-competitive-league-for-3-years-after-not-paying-players
+
+[5] - https://johancruyffinstitute.com/en/the-expert-corner-en/esports-a-new-challenge-for-sport-management/
